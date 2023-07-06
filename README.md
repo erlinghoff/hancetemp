@@ -58,13 +58,13 @@ models = hance.list_models()
 print(models)
 ```
 
-> [!tip]
+> 
 > Use the `list_models` function to get a list of available models you can use with HANCE, such as noise reduction and reverb removal models.
 
 ## Basic audio processing
 To process an audio file using HANCE, use the `process_file` function, as shown below.
 
-> [!tip]
+> 
 > In this example, we use _PySoundFile_ to read and write audio files. While _PySoundFile_ is not a requirement for using HANCE, it is a convenient library for handling audio files in Python. If you wish to use the process_file function shown in the example, you must install PySoundFile by running the command `python -m pip install soundfile`
 
 ### File processing
@@ -205,7 +205,7 @@ t.join
 
 Here is a minimal example of the HANCE-related code for you to look at:
 
-> [!tip]
+> 
 > Please note that this example does not run, as the PCM_AUDIO_DATA is not set, and is only used to demonstrate the usage of the API.
 
 ### Minimal Python example
