@@ -1,5 +1,5 @@
 <a href="https://hance.ai">
-    <img src="https://hance.ai/images/hance-logo-branding-color.svg" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+    <img src="https://hance.ai/images/hance-logo-branding-color.svg" alt="Aimeos logo" title="Aimeos" align="right" height="40" />
 </a>
 
 # Welcome to the HANCE APIs
