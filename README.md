@@ -26,6 +26,15 @@ Learn more and listen to examples at [HANCE.ai](https://hance.ai)
 - Easy to integrate
 
 <details>
+      <summary>
+## Listen to the Amazing Examples
+- Example 1
+- Example 2
+- Example 3
+    </summary>
+</details>
+
+<details>
     <summary>
 <h1>HANCE Python API</h1>
     </summary>
