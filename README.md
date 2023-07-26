@@ -1,6 +1,7 @@
 <a href="https://aimeos.org/">
     <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
 </a>
+
 # Welcome to the HANCE APIs
 
 HANCE offers top-quality signal-processing techniques developed by machine learning specialists, sound engineers, and audio processing experts. Our technology is designed to provide users with the highest possible audio experience by removing noise, reverb, and other signal impairments. HANCE can also provide sound classification and signal recovery – all in realtime. 
