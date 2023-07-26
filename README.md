@@ -4,6 +4,10 @@ HANCE offers top-quality signal-processing techniques developed by machine learn
 
 https://github.com/erlinghoff/hancetemp/assets/4093630/1f84729a-20e8-4aaf-aa59-6fd2375d9bec
 
+
+https://github.com/erlinghoff/hancetemp/assets/4093630/fc16d43b-3983-436d-8e4e-348c4650d454
+
+
 The HANCE APIs are designed to make our cutting-edge algorithms accessible to everyone, regardless of their device or application. Our highly trainable and adaptable Web, Python, and C++ APIs, with more platforms to come, give developers all they need to get started. With CPU and memory efficiency in mind, the HANCE APIs allow easy access to our revolutionary audio algorithms without sacrificing performance.
 
 The HANCE algorithms are built on a unique combination of deep learning and evolutionary computing techniques. This enables our systems to learn quickly, accurately, and efficiently from auditory data.
