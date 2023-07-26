@@ -27,11 +27,12 @@ Learn more and listen to examples at [HANCE.ai](https://hance.ai)
 
 <details>
       <summary>
-## Listen to the Amazing Examples
+<h2>Listen to the Amazing Examples</h2>
+    </summary>
 - Example 1
 - Example 2
 - Example 3
-    </summary>
+
 </details>
 
 <details>
