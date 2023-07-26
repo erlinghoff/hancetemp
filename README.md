@@ -2,7 +2,7 @@
 
 HANCE offers top-quality signal-processing techniques developed by machine learning specialists, sound engineers, and audio processing experts. Our technology is designed to provide users with the highest possible audio experience by removing noise, reverb, and other signal impairments. HANCE can also provide sound classification and signal recovery – all in realtime. 
 
-https://github.com/erlinghoff/hancetemp/assets/4093630/66e0b56e-290b-43c0-8560-afbb3c5e4262
+https://github.com/erlinghoff/hancetemp/assets/4093630/1f84729a-20e8-4aaf-aa59-6fd2375d9bec
 
 The HANCE APIs are designed to make our cutting-edge algorithms accessible to everyone, regardless of their device or application. Our highly trainable and adaptable Web, Python, and C++ APIs, with more platforms to come, give developers all they need to get started. With CPU and memory efficiency in mind, the HANCE APIs allow easy access to our revolutionary audio algorithms without sacrificing performance.
 
@@ -11,8 +11,6 @@ The HANCE algorithms are built on a unique combination of deep learning and evol
 Learn more and listen to examples at [HANCE.ai](https://hance.ai)
 
 [Contact us](https://hance.ai/contact/)
-
-
 
 ## Why use HANCE?
 
